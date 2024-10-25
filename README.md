@@ -1,4 +1,4 @@
-# Awesome-PWA
+# Progressive Web Alternatives
 List of progressive web apps that can be used instead of installing an application
 
 - [ChatGPT](https://chatgpt.com/)
